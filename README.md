@@ -1,2 +1,7 @@
 # Bird-Species-Observation-Analysis
-In this project I have done Data cleaning and Preprocessing Exploratory Data analysis and Data visualization has been done by using Power Bi Desktop
+In this project Following Process has been Done
+1. Data cleaning
+2. Data Preprocessing
+3. Exploratory Data analysis
+4. Data visualization
+by using Python And Power Bi Desktop
